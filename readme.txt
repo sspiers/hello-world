@@ -12,3 +12,10 @@ Eighth line of text
 ### Heading 3
 
 ![embedded image](somewhere)
+
+```
+code here
+more code
+even more code
+
+```
