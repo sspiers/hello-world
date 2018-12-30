@@ -6,3 +6,7 @@ Fourth line of text
 Sixth line of text with spelling error corrected
 Seventh line of text
 Eighth line of text
+
+## Heading 2
+
+### Heading 3
