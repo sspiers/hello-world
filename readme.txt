@@ -10,3 +10,5 @@ Eighth line of text
 ## Heading 2
 
 ### Heading 3
+
+![embedded image](somewhere)
